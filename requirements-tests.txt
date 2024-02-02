@@ -11,7 +11,7 @@ cffi==1.14.5                     # via cairocffi, cryptography, weasyprint
 chardet==4.0.0                  # via requests
 codecov==2.1.11
 coverage==5.5                   # via codecov, pytest-cov
-cryptography==3.4.7
+cryptography==42.0.2
 cssselect2==0.4.1               # via cairosvg, weasyprint
 defusedxml==0.7.1               # via cairosvg
 django==2.2.24                  # via django-filer, django-filter, django-jinja, django-mptt, django-reversion, django-timezone-field, django-polymorphic, djangorestframework, easy-thumbnails, jsonfield, shuup
@@ -49,7 +49,7 @@ mock==3.0.5
 more-itertools==8.7.0           # via pytest
 openpyxl==3.0.7                 # via shuup
 packaging==20.9                 # via bleach, pytest
-pillow==8.2.0                   # via cairosvg, easy-thumbnails, weasyprint
+pillow==10.2.0                   # via cairosvg, easy-thumbnails, weasyprint
 pluggy==0.13.1                  # via pytest
 py==1.10.0                      # via pytest
 pycparser==2.20                 # via cffi
