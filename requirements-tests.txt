@@ -35,7 +35,7 @@ execnet==1.8.0                  # via pytest-cache
 factory-boy==2.7.0              # via shuup
 fake-factory==0.5.3             # via factory-boy, shuup
 html5lib==0.999999999
-idna==2.10                      # via requests
+idna==3.7                      # via requests
 importlib-metadata==3.10.0      # via keyring, markdown, pluggy, pytest
 jeepney==0.6
 jinja2==2.8.1                   # via django-jinja, shuup
