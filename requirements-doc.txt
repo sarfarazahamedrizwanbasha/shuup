@@ -23,7 +23,7 @@ easy-thumbnails==2.7.1    # via django-filer
 et-xmlfile==1.1.0         # via openpyxl
 factory-boy==2.7.0        # via shuup
 fake-factory==0.5.3       # via factory-boy, shuup
-idna==2.10                # via requests
+idna==3.7                # via requests
 imagesize==1.2.0          # via sphinx
 importlib-metadata==4.5.0  # via keyring, markdown
 jdcal==1.4.1              # via openpyxl
